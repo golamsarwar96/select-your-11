@@ -1,0 +1,103 @@
+[
+    {
+        "player_id": 1,
+        "player_name": "Virat Kohli",
+        "country": "India",
+        "player_img": "https://i.ibb.co.com/hHtbVpQ/d973a-17150616187538-1920.jpg",
+        "role": "Batsman",
+        "player_price": 15000000,
+        "batter_type": "Top Order",
+        "bowler_type": "Spin"
+    },
+    {
+        "player_id": 2,
+        "player_name": "Babar Azam",
+        "country": "Pakistan",
+        "player_img": "https://i.ibb.co.com/550BbNt/Untitled-design.jpg",
+        "role": "Batsman",
+        "player_price": 12000000,
+        "batter_type": "Top Order",
+        "bowler_type": "Spin"
+    },
+    {
+        "player_id": 3,
+        "player_name": "Kagiso Rabada",
+        "country": "South Africa",
+        "player_img": "https://i.ibb.co.com/WxbgHbd/Rabada.jpg",
+        "role": "Bowler",
+        "player_price": 10000000,
+        "batter_type" : "Lower Order",
+        "bowler_type": "Fast"
+    },
+    {
+        "player_id": 4,
+        "player_name": "Jos Buttler",
+        "country": "England",
+        "player_img": "https://i.ibb.co.com/fYB8rrW/4a655b514a0538cc8b0bb6e7b1cabefe-Y29ud-GVud-HNl-YXJja-GFwa-Swx-Nj-Y4-Mz-E5-MTg5-2-69703789.jpg",
+        "role": "Wicketkeeper Batsman",
+        "player_price": 14000000,
+        "batter_type": "Middle Order",
+        "bowler_type": "Medium Pace"
+    },
+    {
+        "player_id": 5,
+        "player_name": "Pat Cummins",
+        "country": "Australia",
+        "player_img": "https://i.ibb.co.com/WWW28NY/331576.jpg",
+        "role": "Bowler",
+        "player_price": 13000000,
+        "batter_type": "Lower Order",
+        "bowler_type": "Fast"
+    },
+    {
+        "player_id": 6,
+        "player_name": "Rashid Khan",
+        "country": "Afghanistan",
+        "player_img": "https://i.ibb.co.com/CW7cQ3y/122334-mrzhodfazf-1561120923.jpg",
+        "role": "Bowler",
+        "player_price": 8000000,
+        "batter_type" : "Middle Order",
+        "bowler_type": "Leg Spin"
+
+    },
+    {
+        "player_id": "7",
+        "player_name": "Ben Stokes",
+        "country": "England",
+        "player_img": "https://i.ibb.co.com/qgJLT3j/skysports-pa-ben-stokes-england-5805019.jpg",
+        "role": "All-rounder",
+        "player_price": 1200000,
+        "batter_type": "Left-handed",
+        "bowler_type": "Right-arm fast"
+    },
+    {
+        "player_id": "8",
+        "player_name": "Kane Williamson",
+        "country": "New Zealand",
+        "player_img": "https://i.ibb.co.com/30y2KD9/Kane-Williamson-1024x768.webp",
+        "role": "Batsman",
+        "player_price": 900000,
+        "batter_type": "Right-handed",
+        "bowler_type": "Right-arm off-spin"
+    },
+    {
+        "player_id": "9",
+        "player_name": "Jasprit Bumrah",
+        "country": "India",
+        "player_img": "https://i.ibb.co.com/vqFFNVk/cover-1723445307-Foto-Jet-2024-08-12-T114119-517.jpg",
+        "role": "Bowler",
+        "player_price": 1500000,
+        "batter_type": "Right-handed",
+        "bowler_type": "Right-arm fast"
+    },
+    {
+        "player_id": "4",
+        "player_name": "Steve Smith",
+        "country": "Australia",
+        "player_img": "https://i.ibb.co.com/HdSgRdS/e6cd134e6bc9c3cf9fc14be5ae2d0d54.jpg",
+        "role": "Batsman",
+        "player_price": 1100000,
+        "batter_type": "Right-handed",
+        "bowler_type": "Right-arm leg-spin"
+    }
+]
